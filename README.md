@@ -16,3 +16,5 @@ $ node index.js
 
 ✨  Done in 0.16s.
 ```
+# resouces
+[npm - table](https://www.npmjs.com/package/table)
