@@ -1,0 +1,14 @@
+{
+  "name": "test-table-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ming-der Wang",
+  "license": "MIT",
+  "priavte": true,
+  "dependencies": {
+    "table": "^6.8.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
